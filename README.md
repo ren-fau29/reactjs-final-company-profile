@@ -50,6 +50,10 @@ Proyek ini menggunakan font Roboto, Google Font kustom, secara otomatis.
 ```bash
 - npm install slick-carousel
 ```
+```bash
+- npm install redux react-redux
+```
+
 ## Preview
 # Home Page
 
