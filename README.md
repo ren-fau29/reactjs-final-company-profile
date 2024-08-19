@@ -30,6 +30,8 @@ Proyek ini menggunakan font Roboto, Google Font kustom, secara otomatis.
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Requirement What I Use
@@ -83,7 +85,7 @@ Para pegawai
 
 # Contact Us
 
-Menggirim pesan
+Menggirim pesan dengan notifikasi redux
 
 ![alt text](ProjectCompanySS/SendMassage.png?raw=true)
 
