@@ -1,7 +1,7 @@
 # Company Profile With ReactJs Vite and Tailwind
 by Renaldi Fauzi Adnan
 
-Ini adalah proyek React	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) dengan tail yang di-bootstrap.
+Ini adalah proyek React	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) dengan Tailwind ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ## Getting Started
@@ -64,6 +64,12 @@ Menampilkan halaman menu utama dari website
 Tentang orang-orang pada Company Profile
 
 ![alt text](ProjectCompanySS/AboutUs_Mobile.png?raw=true)
+
+# Product Page
+
+Daftar Kendaraan
+
+![alt text](ProjectCompanySS/Tablet_Car.png?raw=true)
 
 # Contact Us
 
