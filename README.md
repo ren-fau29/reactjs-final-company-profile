@@ -1,7 +1,7 @@
 # Company Profile With ReactJs Vite and Tailwind
 by Renaldi Fauzi Adnan
 
-Ini adalah proyek React	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) dengan tail yang di-bootstrap.
+Ini adalah proyek React	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) dengan Tailwind ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ## Getting Started
@@ -32,7 +32,7 @@ Proyek ini menggunakan font Roboto, Google Font kustom, secara otomatis.
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Requirement
+## Requirement What I Use
 - Visual Studio Code v1.92.0
 
 - Tailwindcss v3.4.1
@@ -50,6 +50,10 @@ Proyek ini menggunakan font Roboto, Google Font kustom, secara otomatis.
 ```bash
 - npm install slick-carousel
 ```
+```bash
+- npm install redux react-redux
+```
+
 ## Preview
 # Home Page
 
@@ -65,6 +69,18 @@ Tentang orang-orang pada Company Profile
 
 ![alt text](ProjectCompanySS/AboutUs_Mobile.png?raw=true)
 
+# Product "Cars" Page
+
+Daftar Kendaraan
+
+![alt text](ProjectCompanySS/Tablet_Car.png?raw=true)
+
+# Our Team
+
+Para pegawai
+
+![alt text](ProjectCompanySS/OurTeam.png?raw=true)
+
 # Contact Us
 
 Menggirim pesan
@@ -77,19 +93,18 @@ Menggirim pesan
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Link Website : [renaldi-site-r-drive-and-discover.vercel.app](https://renaldi-site-r-drive-and-discover.vercel.app/)
 
 
-## CATATAN
+## Catatan
 1. Video tag harus mempunyai **key** agar videonya ganti
-2. cara agar ditengah **left-1/2 transform -translate-x-1/2**
+2. Cara agar ditengah **left-1/2 transform -translate-x-1/2**
 3. Tailwind CSS menyediakan class **object-cover** yang dapat digunakan untuk mengisi elemen dengan objek dan menjaga aspek rasio. - for video
 4. **import src image dari data.json** file harus di **public** directory
 
 ## YANG PERLU DI PERBAIKI
-1. menggunakan **react-router-dom** saya ingin saat Link di click mengarah ke **halaman paling atas**
+1. Menggunakan **react-router-dom** saya ingin saat Link di click mengarah ke **halaman paling atas** ¬_¬
+2. Setiap klik **subcribe** pada footer maka akan **Reload website** ?! ￣へ￣
 
 ## Credit
 > RenFaa
