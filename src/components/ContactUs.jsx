@@ -3,10 +3,19 @@ import Navbar from "./templates/Navbar";
 import Sidebar from "./templates/Sidebar";
 import Footer from "./templates/Footer";
 
+import { useDispatch } from "react-redux";
+import { showNotification } from "../../src/actions/notificationActions";
+
 import { Slide, ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const ContactUs = () => {
+  const dispatch = useDispatch();
+
+  const handleClick = () => {
+    dispatch(showNotification("This is a success message!", "success"));
+  };
+
   // Notifikasi
   const notify = () =>
     toast.success("Pesan Terkirim Yey ✉️", {
@@ -65,7 +74,7 @@ const ContactUs = () => {
               <button
                 className="uppercase text-sm font-bold tracking-wide bg-blue-900 text-gray-100 p-3 rounded-lg w-full 
                       focus:outline-none focus:shadow-outline"
-                onClick={notify}
+                onClick={handleClick}
               >
                 Send Message
               </button>
