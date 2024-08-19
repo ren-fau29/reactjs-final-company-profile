@@ -12,11 +12,11 @@ Pertama, jalankan server pengembangan:
 npm run dev
 ```
 
-Buka http://localhost:3000 dengan browser Anda untuk melihat hasilnya.
+Buka http://localhost:5173 dengan browser Anda untuk melihat hasilnya.
 
 Anda dapat mulai mengedit halaman dengan memodifikasi app/page.js. Halaman akan diperbarui secara otomatis saat Anda mengedit file.
 
-Proyek ini menggunakan next/font untuk mengoptimalkan dan memuat Inter, Google Font kustom, secara otomatis.
+Proyek ini menggunakan font Roboto, Google Font kustom, secara otomatis.
 
 ## Tech
 
