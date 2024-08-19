@@ -1,4 +1,4 @@
-# Company Profile With ReactJs Vite and Tailwind
+# Company Profile ReactJs with library Vite and Tailwind CSS
 by Renaldi Fauzi Adnan
 
 Ini adalah proyek React	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) dengan Tailwind ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
