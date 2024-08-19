@@ -3,17 +3,17 @@ import { Zoom, Bounce, ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const Footer = () => {
-  toast.success("success!", {
-    position: "top-center",
-    autoClose: 10000,
-    hideProgressBar: false,
-    closeOnClick: true,
-    pauseOnHover: true,
-    draggable: true,
-    progress: undefined,
-    theme: "light",
-    transition: Zoom,
-  });
+  // toast.success("success!", {
+  //   position: "top-center",
+  //   autoClose: 10000,
+  //   hideProgressBar: false,
+  //   closeOnClick: true,
+  //   pauseOnHover: true,
+  //   draggable: true,
+  //   progress: undefined,
+  //   theme: "light",
+  //   transition: Zoom,
+  // });
 
   const notifyError = () =>
     toast.error("🚫 Invalid email address!", {
@@ -67,6 +67,7 @@ const Footer = () => {
               <button
                 className="absolute end-1 top-1/2 -translate-y-1/2 rounded-full bg-blue-600 px-5 py-3 text-sm font-medium text-white transition hover:bg-blue-700"
                 onClick={handleSubscribe}
+                href="#"
               >
                 Subscribe
               </button>
