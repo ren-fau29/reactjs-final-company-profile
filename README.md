@@ -65,11 +65,17 @@ Tentang orang-orang pada Company Profile
 
 ![alt text](ProjectCompanySS/AboutUs_Mobile.png?raw=true)
 
-# Product Page
+# Product "Cars" Page
 
 Daftar Kendaraan
 
 ![alt text](ProjectCompanySS/Tablet_Car.png?raw=true)
+
+# Our Team
+
+Para pegawai
+
+![alt text](ProjectCompanySS/OurTeam.png?raw=true)
 
 # Contact Us
 
