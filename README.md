@@ -32,7 +32,7 @@ Proyek ini menggunakan font Roboto, Google Font kustom, secara otomatis.
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Requirement
+## Requirement What I Use
 - Visual Studio Code v1.92.0
 
 - Tailwindcss v3.4.1
