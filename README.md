@@ -51,15 +51,19 @@ Proyek ini menggunakan font Roboto, Google Font kustom, secara otomatis.
 - npm install slick-carousel
 ```
 ## Preview
+#Home Page
 ![alt text](ProjectCompanySS/PC.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](ProjectCompanySS/Mobile.png?raw=true)
 
-![alt text](?raw=true)
+#About Us Page
+![alt text](ProjectCompanySS/AboutUs_Mobile.png?raw=true)
 
-![alt text](?raw=true)
+#Contact Us
+![alt text](ProjectCompanySS/SendMassage.png?raw=true)
 
-![alt text](?raw=true)
+#Footer
+![alt text](ProjectCompanySS/FooterInvalidSend.png?raw=true)
 
 ## Deploy on Vercel
 
