@@ -47,6 +47,19 @@ Proyek ini menggunakan font Roboto, Google Font kustom, secara otomatis.
 ```bash
 - npm install boxicons
 ```
+```bash
+- npm install slick-carousel
+```
+## Preview
+![alt text](ProjectCompanySS/PC.png?raw=true)
+
+![alt text](?raw=true)
+
+![alt text](?raw=true)
+
+![alt text](?raw=true)
+
+![alt text](?raw=true)
 
 ## Deploy on Vercel
 
