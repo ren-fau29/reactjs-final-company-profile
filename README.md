@@ -77,7 +77,7 @@ Menggirim pesan
 
 ## Deploy on Vercel
 
-Link Website : renaldi-site-r-drive-and-discover.vercel.app
+Link Website : [renaldi-site-r-drive-and-discover.vercel.app](https://renaldi-site-r-drive-and-discover.vercel.app/)
 
 
 ## CATATAN
