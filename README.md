@@ -99,8 +99,8 @@ Link Website : [renaldi-site-r-drive-and-discover.vercel.app](https://renaldi-si
 4. **import src image dari data.json** file harus di **public** directory
 
 ## YANG PERLU DI PERBAIKI
-1. Menggunakan **react-router-dom** saya ingin saat Link di click mengarah ke **halaman paling atas**
-2. Setiap klik subcribe pada footer makan website akan Reload ?!
+1. Menggunakan **react-router-dom** saya ingin saat Link di click mengarah ke **halaman paling atas** ¬_¬
+2. Setiap klik **subcribe** pada footer maka akan **Reload website** ?! ￣へ￣
 
 ## Credit
 > RenFaa
