@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Hyundai IONIQ 5",
+    "img": "1.png",
+    "description": "Mobil listrik dengan desain futuristik, cocok untuk perjalanan yang nyaman dan ramah lingkungan.",
+    "price": "$70 - $150/day",
+    "power_torque": "258 lb-ft (350 Nm)",
+    "engine": "Electric Motor"
+  },
+  {
+    "id": 2,
+    "name": "Subaru Outback",
+    "img": "2.png",
+    "description": "Mobil ini dikenal dengan kemampuan off-road dan ruang kargo yang luas, ideal untuk road trip dan petualangan alam.",
+    "price": "$60 - $120/day",
+    "power_torque": "Sekitar 277 lb-ft (376 Nm)",
+    "engine": "2.4L Turbocharged Boxer-4"
+  },
+  {
+    "id": 3,
+    "name": "Toyota RAV4 Hybrid",
+    "img": "3.png",
+    "description": "SUV kompak dengan efisiensi bahan bakar tinggi dan kenyamanan berkendara, cocok untuk perjalanan panjang.",
+    "price": "$65 - $130/day",
+    "power_torque": "163 lb-ft (221 Nm) combined with electric motor",
+    "engine": "2.5L 4-cylinder Hybrid"
+  },
+  {
+    "id": 4,
+    "name": "Ford Bronco",
+    "img": "4.png",
+    "description": "Mobil off-road yang tangguh dan stylish, cocok untuk perjalanan ke destinasi yang lebih menantang.",
+    "price": "$100 - $200/day",
+    "power_torque": "415 lb-ft (563 Nm) (depending on engine choice)",
+    "engine": "2.3L EcoBoost I-4 or 2.7L V6 Turbo"
+  },
+  {
+    "id": 5,
+    "name": "Kia Sorento",
+    "img": "5.png",
+    "description": "SUV tiga baris dengan ruang kabin yang luas, cocok untuk keluarga atau kelompok kecil yang ingin berpetualang bersama.",
+    "price": "$60 - $130/day",
+    "power_torque": "258 lb-ft (350 Nm)",
+    "engine": "2.5L Turbocharged Inline-4"
+  },
+  {
+    "id": 6,
+    "name": "Jeep Grand Cherokee",
+    "img": "6.png",
+    "description": "Kendaraan dengan kemampuan off-road unggulan dan interior mewah, ideal untuk perjalanan yang membutuhkan performa dan kenyamanan.",
+    "price": "$80 - $180/day",
+    "power_torque": "390 lb-ft (529 Nm)",
+    "engine": "3.6L V6 or 5.7L V8"
+  },
+  {
+    "id": 7,
+    "name": "Mazda CX-5",
+    "img": "7.png",
+    "description": "SUV dengan desain elegan dan handling yang baik, menawarkan kenyamanan berkendara yang cocok untuk perjalanan jauh.",
+    "price": "$50 - $110/day",
+    "power_torque": "320 lb-ft (433 Nm)",
+    "engine": "2.5L Turbocharged Inline-4"
+  },
+  {
+    "id": 8,
+    "name": "Volvo XC60",
+    "img": "8.png",
+    "description": "SUV mewah yang menawarkan kenyamanan, teknologi canggih, dan sistem keamanan terbaik, ideal untuk perjalanan yang aman dan nyaman.",
+    "price": "$90 - $170/day",
+    "power_torque": "295 lb-ft (400 Nm)",
+    "engine": "2.0L Turbocharged and Supercharged Inline-4 (with hybrid options)"
+  },
+  {
+    "id": 9,
+    "name": "Honda CR-V",
+    "img": "9.png",
+    "description": "SUV yang terkenal dengan keandalannya, ruang kabin yang luas, dan efisiensi bahan bakar, cocok untuk perjalanan panjang dengan kenyamanan maksimal.",
+    "price": "$50 - $120/day",
+    "power_torque": "179 lb-ft (243 Nm)",
+    "engine": "1.5L Turbocharged Inline-4"
+  }
+]
