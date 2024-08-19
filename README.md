@@ -33,8 +33,6 @@ Proyek ini menggunakan next/font untuk mengoptimalkan dan memuat Inter, Google F
 ## Requirement
 - Visual Studio Code v1.92.0
 
-- NextJs v20.15.1
-
 - Tailwindcss v3.4.1
 
 ## Dependencies
@@ -45,13 +43,7 @@ Proyek ini menggunakan next/font untuk mengoptimalkan dan memuat Inter, Google F
 - npm install --save react-toastify
 ```
 ```bash
-- npm install framer-motion
-```
-```bash
-- npm install react-icons
-```
-```bash
-- npm install react-countup
+- npm install boxicons
 ```
 
 ## Deploy on Vercel
