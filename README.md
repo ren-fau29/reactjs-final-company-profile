@@ -51,21 +51,27 @@ Proyek ini menggunakan font Roboto, Google Font kustom, secara otomatis.
 - npm install slick-carousel
 ```
 ## Preview
-###Home Page
+# Home Page
+
+Menampilkan halaman menu utama dari website
 
 ![alt text](ProjectCompanySS/PC.png?raw=true)
 
 ![alt text](ProjectCompanySS/Mobile.png?raw=true)
 
-#About Us Page
+# About Us Page
+
+Tentang orang-orang pada Company Profile
 
 ![alt text](ProjectCompanySS/AboutUs_Mobile.png?raw=true)
 
-#Contact Us
+# Contact Us
+
+Menggirim pesan
 
 ![alt text](ProjectCompanySS/SendMassage.png?raw=true)
 
-#Footer
+# Footer
 
 ![alt text](ProjectCompanySS/FooterInvalidSend.png?raw=true)
 
