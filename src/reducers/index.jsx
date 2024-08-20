@@ -1,4 +1,3 @@
-// reducers/index.js
 import { combineReducers } from "redux";
 import notificationReducer from "./notificationReducer";
 
