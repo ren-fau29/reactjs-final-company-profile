@@ -1,4 +1,3 @@
-// reducers/notificationReducer.js
 import {
   SHOW_NOTIFICATION,
   HIDE_NOTIFICATION,
