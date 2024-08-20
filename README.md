@@ -36,7 +36,7 @@ Proyek ini menggunakan font Roboto, Google Font kustom, secara otomatis.
 
 ## Requirement What I Use
 - Visual Studio Code v1.92.0
-
+- Library Vite
 - Tailwindcss v3.4.1
 
 ## Dependencies
