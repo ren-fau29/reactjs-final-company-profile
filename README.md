@@ -14,8 +14,6 @@ npm run dev
 
 Buka http://localhost:5173 dengan browser Anda untuk melihat hasilnya.
 
-Anda dapat mulai mengedit halaman dengan memodifikasi app/page.js. Halaman akan diperbarui secara otomatis saat Anda mengedit file.
-
 Proyek ini menggunakan font Roboto, Google Font kustom, secara otomatis.
 
 ## Tech
