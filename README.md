@@ -1,4 +1,4 @@
-# Company Profile With ReactJs Vite and Tailwind
+# Company Profile ReactJs with library Vite and Tailwind CSS
 by Renaldi Fauzi Adnan
 
 Ini adalah proyek React	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) dengan Tailwind ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -14,8 +14,6 @@ npm run dev
 
 Buka http://localhost:5173 dengan browser Anda untuk melihat hasilnya.
 
-Anda dapat mulai mengedit halaman dengan memodifikasi app/page.js. Halaman akan diperbarui secara otomatis saat Anda mengedit file.
-
 Proyek ini menggunakan font Roboto, Google Font kustom, secara otomatis.
 
 ## Tech
@@ -30,11 +28,13 @@ Proyek ini menggunakan font Roboto, Google Font kustom, secara otomatis.
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Requirement What I Use
 - Visual Studio Code v1.92.0
-
+- Library Vite
 - Tailwindcss v3.4.1
 
 ## Dependencies
@@ -83,7 +83,7 @@ Para pegawai
 
 # Contact Us
 
-Menggirim pesan
+Menggirim pesan dengan notifikasi redux
 
 ![alt text](ProjectCompanySS/SendMassage.png?raw=true)
 

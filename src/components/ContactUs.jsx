@@ -10,13 +10,13 @@ import { Slide, ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const ContactUs = () => {
+    // Notifikasi
   const dispatch = useDispatch();
 
   const handleClick = () => {
     dispatch(showNotification("This is a success message!", "success"));
   };
 
-  // Notifikasi
   const notify = () =>
     toast.success("Pesan Terkirim Yey ✉️", {
       position: "top-right",
