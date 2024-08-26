@@ -176,6 +176,20 @@ function AboutUs() {
               setiap perjalanan tidak hanya menyenangkan bagi pelanggan, tetapi
               juga memberi manfaat bagi masyarakat dan lingkungan setempat.
             </p>
+            <div className="max-w-4xl mb-7 px-5">
+              <h3 className="py-5 xl:text-xl text-base font-semibold mb-2">
+                We Are Location
+              </h3>
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45931.525486162514!2d106.81758973137698!3d-6.193725267294358!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5d2e764b12d%3A0x3d2ad6e1e0e9bcc8!2sMonas!5e1!3m2!1sen!2sid!4v1724676877867!5m2!1sen!2sid"
+                allowfullscreen=""
+                className="mx-auto"
+                width="800"
+                height="300"
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+              ></iframe>
+            </div>
           </div>
         </section>
       </div>
