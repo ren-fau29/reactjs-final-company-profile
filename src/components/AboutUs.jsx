@@ -153,13 +153,13 @@ function AboutUs() {
             </h3>
             <p className="xl:text-lg text-sm">
               Kami percaya pada kekuatan inovasi untuk menciptakan pengalaman
-              perjalanan yang unik dan luar biasa. Di R Drive And Discover, kami
-              selalu mencari cara baru untuk meningkatkan layanan kami, baik
-              melalui teknologi, desain perjalanan yang kreatif, atau pendekatan
-              baru terhadap kenyamanan dan keselamatan. Kami juga fleksibel dan
-              cepat beradaptasi dengan perubahan, memastikan bahwa layanan kami
-              selalu relevan dan responsif terhadap kebutuhan pasar yang
-              dinamis.
+              perjalanan yang nyaman dan luar biasa. Di R Drive And Discover,
+              kami selalu mencari cara baru untuk meningkatkan layanan kami,
+              baik melalui teknologi, desain perjalanan yang kreatif, atau
+              pendekatan baru terhadap kenyamanan dan keselamatan. Kami juga
+              fleksibel dan cepat beradaptasi dengan perubahan, memastikan bahwa
+              layanan kami selalu relevan dan responsif terhadap kebutuhan pasar
+              yang dinamis.
             </p>
           </div>
           <div className="max-w-4xl mx-auto mb-7 px-5">
