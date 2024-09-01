@@ -107,4 +107,4 @@ Link Website : [renaldi-site-r-drive-and-discover.vercel.app](https://renaldi-si
 2. Setiap klik **subcribe** pada footer maka akan **Reload website** ?! ￣へ￣
 
 ## Credit
-> RenFaa
+> RenFau
