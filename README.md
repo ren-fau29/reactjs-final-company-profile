@@ -15,6 +15,7 @@ npm run dev
 Buka http://localhost:5173 dengan browser Anda untuk melihat hasilnya.
 
 Proyek ini menggunakan font Roboto, Google Font kustom, secara otomatis.
+Bisa pakai salah satu dari ini:
 ```bash
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
